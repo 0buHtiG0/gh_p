@@ -1,0 +1,290 @@
+VDI:
+-configuracion de archivo hosts
+usuario ETL
+accesos a la bd
+-usuario unix
+-control-m
+
+
+
+05-05-2021
+--------------
+jorge radames merlin product owner
+jorje luis SANCHEZ ANGELES scrum master
+Scrum SDATOOL-34522 Cumplimiento RR
+3er sprint del Q -> mes y medio para terminar
+
+reporte regulatoria
+generar tabla nueva en proceso de BGM
+javier consumiria esta tabla
+
+*** archivo se toma y se deposita en base de bgm y 
+cargarla en la tabla de bgm
+
+??? frecuencia del archivo (diario) ->montaño
+dayli 10 de la mañana (jesus montaño)
+
+ejecucion para saber en que malla meter el proceso
+insumo viene de españa y trae tres registros
+varia el monto
+
+enviar retro a jesus bedolla
+
+
+06-05-2021
+--------------
+Q -> 6 sprint  el proximo martes se acaba 
+
+10 de mayo a las 2pm
+
+initial margin ese tema se va a atender
+una tabla recibir info y mandarla al usuario (con apoyo de cesar)
+
+frecuiencia del archivo: diario dos o tres registros por diario
+****sprint se crean laminas 
+
+Asignación de permisos de administrador VDI
+Creacion de usuario Unix
+
+
+07-05-2021
+--------------
+
+permisos de administrador:
+user:   .\mw1edir1
+passwd: 653]t5N5k[{.
+
+-configuracion de archivo hosts
+-usuario ETL
+-accesos a la bd
+-usuario unix
+
+jorge radames no esta el lunes-martes
+
+***laminas de la review 
+
+
+10-05-2021
+--------------
+dudas en la review
+
+
+11-05-2021
+--------------
+
+
+12-05-2021
+--------------
+de la junta de review solo hicieron comentarios(dudas) y estuvo tranquila
+jorge arturo initial margin, dos sesiones faltantes para el siguiente Q
+globaldevtools.bbva.com/jira/secure/RapidBoard.jspa?rapidView=25153
+
+
+13-05-2021
+--------------
+se comento junto con jesus lo que se esta haciendo con la tabla Initial Margin
+
+
+14-05-2021
+--------------
+sprint 6 para instalacion
+
+
+17-05-2021
+--------------
+correrlo a otro dia en la mañana al rededor de las 7am
+dudas de JIRA¡?***
+
+
+18-05-2021
+--------------
+Ayer ya termine el etl y cargue el primer archivo de dos registros
+Ayer tambien se le dieron permisos al usuario del etl para cargar a la tabla
+VoBo acceso a Base de Datos
+VoBo Creación de Rol y Alta de Usuarios Oracle
+Junta a las 4:30pm y proximo jueves junta de historico
+
+
+19-05-2021
+--------------
+duda de la condicion?? cuanto se tardan en pasarla
+Hola Cesar
+buen día, ¿como te encuentras?
+disculpa tendras unos minutos?
+es que ya me dieron el VoBo para el usuario de la BD
+pero me dicen que hay que mandar un remedy
+
+
+20-05-2021
+--------------
+bloqueo de equipo VDI ya pedi apoyo a ANDREA TORRES DE LEON
+
+
+21-05-2021
+--------------
+6to spring a producción
+8 de Junio en produccion*****
+
+
+24-05-2021
+--------------
+JOSE LENIN RUIZ VAZQUEZ VOBO
+Jira actualizar las historias de usuario
+Ricardo 7/9 y faltan solo 2
+Jorge Arturo -> BGM
+
+
+25-05-2021
+--------------
+archivo con punto y coma y sin el encabezado y la condicion de sire
+pipes, sin encabezado iguales a los de clan 
+3 de junio la tabla y 17 junio, se envia nuevo job a la espera de la condicion
+22 de junio tentativo
+
+
+26-05-2021
+--------------
+***Seguimiento IM***
+produccion 4 de junio para tabla
+17 o 22 de junio ya se ve info en la tabla
+SPRINT-5:
+Jira: tareas MEXPF1-88273
+
+
+27-05-2021
+--------------
+Ya se solicito la creacion de la tabla en PRO
+ya nos pasaron la condicion MSIRTP0180-TO-MRAACP0138
+se valido la recepcion del archivo en la ruta especificada
+la malla para el dia 22 de junio
+javier prueba de mas informacion
+
+
+28-05-2021
+--------------
+Cambio de separador de archivo 
+cambio para entrar los dos el mismo dia
+
+
+31-05-2021
+--------------
+control-m se hizo prueba pero alguien la estbba utilizando
+
+
+01-06-2021
+--------------
+usuario final que visualizara la informacion (nombre y area)
+*matriz delegacion aplicaciones -> vicente montaño 
+Junta de las 2pm:
+SDATOOL-31364-Retencion de IVA 6% y 3%
+
+
+02-06-2021
+--------------
+Cesar dudas de la imagen para excel y documentacion 137*****
+Malla mensual?
+Ya se probo la malla y se levanta el requerimiento para revision
+Se mando correo a javier para que mande retro de la carga que se hizo a la tabla
+demo-day 22 de junio
+
+
+03-06-2021
+--------------
+Javier mando retro que la info esta OK
+17 de Junio proponer la fecha de instalacion juntarnos para quedar bien
+
+
+04-06-2021
+--------------
+Tabla en Pro ya esta lista
+ya la otra seman acordar la fecha de instalacion para ir juntos
+
+Presentación
+https://docs.google.com/presentation/d/1WokyHCYjamGlpU0-8ii2czJS-jvK2TadAZSCnUy_jes/edit#slide=id.g98242bcce6_0_220
+Video
+https://drive.google.com/file/d/1wma5aaaGVzk_gRVre-dFy3gWwfys-hac/view
+
+
+07-06-2021
+--------------
+*subir el proceso del etl a pro???
+y fecha para el job con jesus el dia 22
+mandar correo de tabla de pro y fechas de job para el dia 22
+por lo que se veria informacion a partir del 23
+valoracion 360 2q21
+
+
+08-06-2021
+--------------
+tabla en produccion y subida de compotente etl el dia de hoy
+el dia 22 se iria juntos en la instalacion para el job
+crq envio de parte de bedolla
+
+
+09-06-2021
+--------------
+
+
+10-06-2021
+--------------
+vamos en un cambio propio para el mismo dia
+por peticion de nuestra area
+que nos permitiern cambiar la fecha del CRQ que ya teniamos
+
+
+11-06-2021
+--------------
+concluye el Q2 el 22 de junio
+enviar imagen de la tabla de como se ve la inofrmacion
+
+
+14-06-2021
+--------------
+se confirmo que se va con jesus en CRQ y se queda a  la espera de permisos
+
+
+15-06-2021
+--------------
+ya quedo el CRQ pasar el control a jesus, jesus dice que el lo cambia
+evidencias subir a la carpeta
+
+
+16-06-2021
+--------------
+documento original caliypso:
+https://docs.google.com/spreadsheets/d/1H2EiiTyLZFB2VU09CnmBLVL4WUSefYeu_ZMYsKB1Rx4/edit?usp=sharing 
+tabla script, imagen de la tabla cargada, 
+disparo de la malla, vobos, archivos de parametros, xml
+meter el PIB -> cambio scrum	****
+
+
+17-06-2021
+--------------
+
+18-06-2021
+--------------
+
+21-06-2021
+--------------
+https://drive.google.com/drive/folders/1nCvX_vVI9V4OG9-klM7Y1F5gQ1b5A8eJ
+
+
+22-06-2021
+--------------
+Carlos Ricardo Salinas: Presentación (Finanzas)
+DevOps, CoPs, 
+meet.google.com/wzm-igqx-uwb
+
+
+02-07-2021
+--------------
+
+
+
+-1.- Llenar el formato y solicitar VoBos
+-2.- Enviar a oficina de perfilado  (OFICINA DE PERFILADO MX)(BZG02949)) con el documento con los Vobos
+-3.- Levantar un remedi con la cedulda "alta baja usuario unix"
+
+FORMATO PARA ASIGNACIÓN MODIFICACION DE PRIVILEGIOS A ROLES_V4
+
+Se solicita apoyo para la asignación de permisos de administrador en la VDI, para nuevo usuario para la instalación del software necesario para mis actividades y tareas del día a día.

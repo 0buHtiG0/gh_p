@@ -1,0 +1,208 @@
+#*********************************************************************************#
+#                                                                                 #
+#                                                                                 #
+#    ========= ESTE FLUJO ES EJECUTADO CON  P O W E R   C E N T E R =========     #
+#                                                                                 #
+#                                                                                 #
+#*********************************************************************************#
+El ambiente es:  Desarrollo
+Comienza ejecución Tuesday, June 2, 2015 01:13:54 PM CDT
+
+********************************************************************************
+  Uso: ObtenContrasena <INF_USR> <INF_PWD>
+********************************************************************************
+
+El usuario es: etloper
+El servicio a utilizar es: IS_Des
+El dominio a utilizar es: Domain_BBVA_Des
+El usuario a utilizar es: etloper
+
+Informatica(r) PMCMD, version [9.5.1 HotFix2], build [231.0621], SOLARIS 64-bit
+Copyright (c) Informatica Corporation 1994 - 2013
+All Rights Reserved.
+
+Invoked at Tue Jun 02 13:13:54 2015
+
+Integration Service is alive.
+Disconnecting from Integration Service
+
+Completed at Tue Jun 02 13:13:54 2015
+El servicio de PowerCenter funciona correctamente.
+Ejecutamos proceso wf_PE_0011_RQ003_4 de IPAB
+
+Informatica(r) PMCMD, version [9.5.1 HotFix2], build [231.0621], SOLARIS 64-bit
+Copyright (c) Informatica Corporation 1994 - 2013
+All Rights Reserved.
+
+Invoked at Tue Jun 02 13:13:55 2015
+
+Connected to Integration Service: [IS_Des].
+Starting workflow [wf_PE_0011_RQ003_4]
+Waiting for workflow [wf_PE_0011_RQ003_4] to complete
+INFO: Workflow [wf_PE_0011_RQ003_4]: Execution succeeded.
+Workflow wf_PE_0011_RQ003_4 with run instance name [] and run id [728634] started successfully.
+Disconnecting from Integration Service
+
+Completed at Tue Jun 02 13:16:17 2015
+             
+             
+La ejecución del proceso wf_PE_0011_RQ003_4 ha sido correcta
+			
+			
+Finaliza ejecución Tue Jun 2 13:16:17 CDT 2015
+#*********************************************************************************#
+#                                                                                 #
+#                                                                                 #
+#    ========= ESTE FLUJO ES EJECUTADO CON  P O W E R   C E N T E R =========     #
+#                                                                                 #
+#                                                                                 #
+#*********************************************************************************#
+El ambiente es:  Desarrollo
+Comienza ejecución Tuesday, June 2, 2015 01:17:00 PM CDT
+
+********************************************************************************
+  Uso: ObtenContrasena <INF_USR> <INF_PWD>
+********************************************************************************
+
+El usuario es: etloper
+El servicio a utilizar es: IS_Des
+El dominio a utilizar es: Domain_BBVA_Des
+El usuario a utilizar es: etloper
+
+Informatica(r) PMCMD, version [9.5.1 HotFix2], build [231.0621], SOLARIS 64-bit
+Copyright (c) Informatica Corporation 1994 - 2013
+All Rights Reserved.
+
+Invoked at Tue Jun 02 13:17:01 2015
+
+Integration Service is alive.
+Disconnecting from Integration Service
+
+Completed at Tue Jun 02 13:17:01 2015
+El servicio de PowerCenter funciona correctamente.
+Ejecutamos proceso wf_PE_0011_RQ003_6 de IPAB
+
+Informatica(r) PMCMD, version [9.5.1 HotFix2], build [231.0621], SOLARIS 64-bit
+Copyright (c) Informatica Corporation 1994 - 2013
+All Rights Reserved.
+
+Invoked at Tue Jun 02 13:17:01 2015
+
+Connected to Integration Service: [IS_Des].
+Starting workflow [wf_PE_0011_RQ003_6]
+Waiting for workflow [wf_PE_0011_RQ003_6] to complete
+INFO: Workflow [wf_PE_0011_RQ003_6]: Execution succeeded.
+Workflow wf_PE_0011_RQ003_6 with run instance name [] and run id [728644] started successfully.
+Disconnecting from Integration Service
+
+Completed at Tue Jun 02 13:22:20 2015
+             
+             
+La ejecución del proceso wf_PE_0011_RQ003_6 ha sido correcta
+			
+			
+Finaliza ejecución Tue Jun 2 13:22:20 CDT 2015
+#*********************************************************************************#
+#                                                                                 #
+#                                                                                 #
+#    ========= ESTE FLUJO ES EJECUTADO CON  P O W E R   C E N T E R =========     #
+#                                                                                 #
+#                                                                                 #
+#*********************************************************************************#
+El ambiente es:  Desarrollo
+Comienza ejecución Tuesday, June 2, 2015 01:24:02 PM CDT
+
+********************************************************************************
+  Uso: ObtenContrasena <INF_USR> <INF_PWD>
+********************************************************************************
+
+El usuario es: etloper
+El servicio a utilizar es: IS_Des
+El dominio a utilizar es: Domain_BBVA_Des
+El usuario a utilizar es: etloper
+
+Informatica(r) PMCMD, version [9.5.1 HotFix2], build [231.0621], SOLARIS 64-bit
+Copyright (c) Informatica Corporation 1994 - 2013
+All Rights Reserved.
+
+Invoked at Tue Jun 02 13:24:02 2015
+
+Integration Service is alive.
+Disconnecting from Integration Service
+
+Completed at Tue Jun 02 13:24:02 2015
+El servicio de PowerCenter funciona correctamente.
+Ejecutamos proceso wf_PE_0011_RQ003_7 de IPAB
+
+Informatica(r) PMCMD, version [9.5.1 HotFix2], build [231.0621], SOLARIS 64-bit
+Copyright (c) Informatica Corporation 1994 - 2013
+All Rights Reserved.
+
+Invoked at Tue Jun 02 13:24:02 2015
+
+Connected to Integration Service: [IS_Des].
+Starting workflow [wf_PE_0011_RQ003_7]
+Waiting for workflow [wf_PE_0011_RQ003_7] to complete
+INFO: Workflow [wf_PE_0011_RQ003_7]: Execution succeeded.
+Workflow wf_PE_0011_RQ003_7 with run instance name [] and run id [728664] started successfully.
+Disconnecting from Integration Service
+
+Completed at Tue Jun 02 13:24:20 2015
+             
+             
+La ejecución del proceso wf_PE_0011_RQ003_7 ha sido correcta
+			
+			
+Finaliza ejecución Tue Jun 2 13:24:20 CDT 2015
+#*********************************************************************************#
+#                                                                                 #
+#                                                                                 #
+#    ========= ESTE FLUJO ES EJECUTADO CON  P O W E R   C E N T E R =========     #
+#                                                                                 #
+#                                                                                 #
+#*********************************************************************************#
+El ambiente es:  Desarrollo
+Comienza ejecución Tuesday, June 2, 2015 01:24:57 PM CDT
+
+********************************************************************************
+  Uso: ObtenContrasena <INF_USR> <INF_PWD>
+********************************************************************************
+
+El usuario es: etloper
+El servicio a utilizar es: IS_Des
+El dominio a utilizar es: Domain_BBVA_Des
+El usuario a utilizar es: etloper
+
+Informatica(r) PMCMD, version [9.5.1 HotFix2], build [231.0621], SOLARIS 64-bit
+Copyright (c) Informatica Corporation 1994 - 2013
+All Rights Reserved.
+
+Invoked at Tue Jun 02 13:24:57 2015
+
+Integration Service is alive.
+Disconnecting from Integration Service
+
+Completed at Tue Jun 02 13:24:58 2015
+El servicio de PowerCenter funciona correctamente.
+Ejecutamos proceso wf_PE_0011_RQ006_24 de IPAB
+
+Informatica(r) PMCMD, version [9.5.1 HotFix2], build [231.0621], SOLARIS 64-bit
+Copyright (c) Informatica Corporation 1994 - 2013
+All Rights Reserved.
+
+Invoked at Tue Jun 02 13:24:58 2015
+
+Connected to Integration Service: [IS_Des].
+Starting workflow [wf_PE_0011_RQ006_24]
+Waiting for workflow [wf_PE_0011_RQ006_24] to complete
+INFO: Workflow [wf_PE_0011_RQ006_24]: Execution succeeded.
+Workflow wf_PE_0011_RQ006_24 with run instance name [] and run id [728667] started successfully.
+Disconnecting from Integration Service
+
+Completed at Tue Jun 02 13:27:00 2015
+             
+             
+La ejecución del proceso wf_PE_0011_RQ006_24 ha sido correcta
+			
+			
+Finaliza ejecución Tue Jun 2 13:27:00 CDT 2015

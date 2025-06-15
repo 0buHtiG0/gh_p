@@ -1,0 +1,27 @@
+De acuerdo a lo platicado ayer por la tarde, les envío la lista de preguntas que tenemos, de cara al desarrollo 
+pedido para hacer llegar desde SIRE el archivo de IM para la BGM.
+
+¿Qué nombre deberá tener el archivo?
+ ya que Javier nos había comentado que al no haber contraparte por BGM, no se tenía posibilidad de ver cual era el nombre correcto.
+
+¿Con que frecuencia se debe distribuir el archivo?
+  Nosotros asumimos que es diario, sólo queremos confirmarlo.
+
+¿En que horario deberá llegar el archivo?
+
+¿Es necesario pasar alguna condición para activar la recepción en el servidor destino, una vez que se efectué la transmisión?
+
+
+
+Hola Jesus
+
+Respecto al nombre del archivo quedaria de la siguiente manera IM_GARANTIAS.txt
+La frecuencia del archivo sería diaria como ya se ha comentado en otras sesiones
+Respecto al horario,  si el usuario aún no ha indicado una hora concreta, ¿sería posible que fuera igual que los procesos de
+ Planes de Cuota (por la mañana)?
+Y el tema de la condición, si necesitamos una condición para el job MRAACP0137
+
+
+
+
+

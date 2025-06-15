@@ -1,0 +1,18 @@
+
+
+ROBOT VALIDADOR:
+cd /etl_work/shells
+./validaEstandaresIPC.sh PE_0011_SUPRCTE /etl_work/idi_fs01/PE/pe_0011_suprcte/  PE_0011_SUPRCTE Validar_0009.txt
+
+*El archivo de entrada se coloca en input.
+*El archivo de salida se coloca en logs ##.val
+
+$LoaderConnection
+$LoaderConnectionName 
+
+Robot:
+11:56:48
+12:59:59
+
+Escribe en SHELLS:
+nohup ./PE_0011_s_RQ003_1.sh &

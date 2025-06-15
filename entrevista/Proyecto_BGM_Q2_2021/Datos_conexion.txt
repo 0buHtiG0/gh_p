@@ -1,0 +1,136 @@
+UNIX:g
+150.50.102.246
+xme1619
+30bbva30Mar21
+/etl_work/idi_fs07/SA/sa_0001_infauto
+
+REMEDY:
+https://remedy.es.igrupobbva
+
+
+
+***********************************
+
+cuartos de años (3 meses -> Q 1,2,3,4)
+jose luis(comentarle cualquier tema)
+
+tablas -> CRQ
+
+5 dias habiles antes de la fecha
+
+8 de junio es el cambio
+por lo que el 1 de junio(martes) debe de enviarse la documentacion 
+y en automatico el dia 8 se instala
+para la tabla es un log de creacion
+
+10 y 24 de junio instalacion
+
+TABLESPACE TS_DAT400;
+
+CD
+FH
+NB DESCRIPCION
+NU NUMERO (im)
+
+CHAR -> VARCHAR2(10 CHAR)
+
+la tabla chida es la primer pestaña
+
+nombre de la tabla (contacto*)
+
+data modeler -> parte de la tabla para la documentacion
+
+esquema, teso.tra012_(poner nombre)
+esquemas, tra y tmt 
+
+CRQ000001847635 -> revision del modelo (archivos subido a CRQ)
+
+CRQ000001849620 -> ya la recacion de la tabla
+todo esto en remedy*(gestion de cambios-> buscar cambio)
+Solicitante4 en ambiente desarrollo
+
+servicio tadamart operaciones
+ninguno, es un proceso nuevo y no tienes afectaciones en BGM
+grupo de gestores, rosa maria orta juares(directo aplicativo responsable)
+
+*cATEGORIZACION:
+*TAREAS: qSdpp (CREACION DE TABLAS en español)
+		CONTROL-M (OTRAS TAREAS)
+
+*Informacion del trabajo: Revisar como me iran atendiendo
+*Fechas: (tiempo de atencion 3 dias)
+*Inf Adicional: misma area BGM (SA@)    Inf.Adicional ( Oracle, bmtbp01, .sql y la imagen )
+validar, siguiente fase
+
+--formato para privilegios a roles_xmz4161
+ip la ipcong de la VDI
+--layout_tables
+excel
+--
+
+ETL: xm(cesar) y pasword: b1dbs3b0f2i3f19
+
+carpeta: sa_0001_infauto (151)
+de base 147-149
+poner descripciones en las transformaciones
+
+irving cosme(bex) monitoriza los procesos de BGM
+
+el mirecoles juntas de JOSE LUIS
+
+
+
+*********************
+developer(modeler)
+nombre tabla tra_numero??? y nombre
+
+
+
+
+***DUDAS:
+
+Dudas sobre el loyout en el documento:
+https://docs.google.com/spreadsheets/d/1H2EiiTyLZFB2VU09CnmBLVL4WUSefYeu_ZMYsKB1Rx4/edit?usp=sharing
+
+Pestaña: (calypso IM > SIRE (IM_GARANTIAS)
+
+En la parte de los campos tipos numericos:
+#renglon	nombre_campo	tipo_de_dato	tamaño
+7			NU_IMP_NOM		NUMBER			17
+9			NU_DIRT_PRICE	NUMBER			13
+10			NU_VALUE		NUMBER			17
+11			NU_HAIR_VALUE	NUMBER			17
+12			NU_HAIRCUT		NUMBER			13
+
+Tengo algunas dudas:
+¿la información vendrá siempre del tipo entero? o ¿abarcara cifras con punto decimal? y si es con punto decimal, ¿cuantas cifras se estaran manejando para la parte despues del punto?
+¿la información tendrá signo negativo en las cantidades?
+¿me podrian compartir una muestra de la información de un día de ejemplo?
+
+una duda mas, como se envia la info archivo plano y se carga la tabla y esta tabla
+se va ir incrementando?
+tipo de extension del archivo
+
+
+select * from ; tabla de españa
+fechas como fecha
+nombre de la tabla
+
+
+nombre del archivo
+la frecuencia diaria
+a que job va a llegar y si requerimos o no condicion
+MISTR#### MRACP4410 BGM
+
+
+430pm control-m o mañana temprano
+
+
+ARRIS: P4$sW0rd@
+
+
+
+
+
+
+
